@@ -1,6 +1,7 @@
 *.class
 *.iml
 *.depend
+*.cbp
 obj
 bin
 *.layout
