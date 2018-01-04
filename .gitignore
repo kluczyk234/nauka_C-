@@ -1,0 +1,6 @@
+*.class
+*.iml
+*.depend
+obj
+bin
+*.layout
